@@ -92,10 +92,14 @@ select * from company_ranking_of_year where ranking <= 5
 ```
 
 ### 3. **Data Visualization** (Using Power BI)
+![image](https://github.com/user-attachments/assets/b73d04cb-e209-4fc9-bc91-15ef3261aa18)
+
 
 The insights derived from the SQL analysis were visualized using Power BI, which included the following KPIs and charts:
 
 #### Key Performance Indicators (KPIs):
+![image](https://github.com/user-attachments/assets/a7c3cbb7-bec4-4d95-9511-6ddc32368c7d)
+
 - **Total Companies**: 2,350
 - **Start Date**: March 2020 (First Layoff)
 - **End Date**: November 2024 (To Present)
@@ -105,11 +109,33 @@ The insights derived from the SQL analysis were visualized using Power BI, which
 
 #### Key Charts:
 - **Line Chart**: Total layoffs by date – Highlights the significant spike in layoffs in 2023 with 264,000 layoffs.
+  
+  ![image](https://github.com/user-attachments/assets/4aaf0e5b-0e24-4a98-a120-3628ce608623)
+
 - **Donut Chart**: Top 5 countries by total layoffs – The United States leads with 455,331 layoffs (78.58%).
+
+  ![image](https://github.com/user-attachments/assets/4b9e3067-5997-4a5d-af9f-bb3b94807369)
+
 - **Column Chart**: Top 5 stages by total layoffs – Post-IPO is the highest stage by layoffs with 375,000 layoffs.
+  
+  ![image](https://github.com/user-attachments/assets/9984c45e-87e8-490b-b907-edb9c8b2b51c)
+
 - **Bar Chart**: Top 10 companies by total layoffs – Amazon has the highest total layoffs (28,000), followed by Meta and Intel.
+  
+  ![image](https://github.com/user-attachments/assets/7067d871-1d13-4883-8b4e-92d2d0984884)
+
 - **Bar Chart**: Top 10 industries by total layoffs – Retail and Consumer industries had the most layoffs, with Retail at 72,000 and Consumer at 71,000.
+  
+  ![image](https://github.com/user-attachments/assets/92c407c4-1e89-4803-9a67-0ba242077314)
+
 - **Table**: A detailed table showing company names, countries, stages, and total layoffs.
+  
+  ![image](https://github.com/user-attachments/assets/328a594b-b011-4bea-b3a1-cdf01d917caa)
+
+### Interactive Dashboard:
+  You can explore the interactive dashboard using the following link: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU3NTUyZWUtMzVmNS00ZGI5LWIwMWMtNzFlNjU3MjI4NDA1IiwidCI6IjhmY2Y0Y2Q5LTJmZTQtNDU3MS04NDMxLWIxN2MzZjI5ZWZiMyJ9)
+  
+  This dashboard provides insightful visualizations and detailed analytics for the dataset. Feel free to interact with it to explore various metrics and gain deeper insights.
 
 ## Conclusion
 
